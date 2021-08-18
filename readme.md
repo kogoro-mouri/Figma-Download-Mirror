@@ -8,7 +8,7 @@ Figma 的安装包在很多地区常常有不能下载的现象，这里收集�
 
 ### 最新版本
 
-| 文件名 | Windows | MacOS | MacOS ARM（M1 芯片） |
+| 文件名 | MacOS | MacOS ARM（M1 芯片） | Windows
 | ------ | ------- | ----- | -------------------- |
 `101.6.0`|[MacOS](./dist/MacOS/Figma-101.6.0.MacOS.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-101.6.0.MacOS.zip))([国内下载点](https://github.com.cnpmjs.org/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-101.6.0.MacOS.zip))|[MacOS_ARM](./dist/MacOS_ARM/Figma-101.6.0.MacOS_ARM.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS_ARM/Figma-101.6.0.MacOS_ARM.zip))([国内下载点](https://github.com.cnpmjs.org/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS_ARM/Figma-101.6.0.MacOS_ARM.zip))| no 
 `101.5.0`|[MacOS](./dist/MacOS/Figma-101.5.0.MacOS.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-101.5.0.MacOS.zip))([国内下载点](https://github.com.cnpmjs.org/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-101.5.0.MacOS.zip))|[MacOS_ARM](./dist/MacOS_ARM/Figma-101.5.0.MacOS_ARM.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS_ARM/Figma-101.5.0.MacOS_ARM.zip))([国内下载点](https://github.com.cnpmjs.org/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS_ARM/Figma-101.5.0.MacOS_ARM.zip))| no 
