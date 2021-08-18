@@ -31,19 +31,22 @@ for (const version in versions) {
   console.log("version", version, ob);
 
   let url = "https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/";
+  let urlCNPM =
+    "https://github.com.cnpmjs.org/kogoro-mouri/Figma-Download-Mirror/raw/master/";
+
   let line =
     `\`${version}\`` +
     "|" +
     (ob.MacOS
-      ? `[MacOS](./dist/MacOS/Figma-${version}.MacOS.zip) ([下载](${url}dist/MacOS/Figma-${version}.MacOS.zip))`
+      ? `[MacOS](./dist/MacOS/Figma-${version}.MacOS.zip) ([下载](${url}dist/MacOS/Figma-${version}.MacOS.zip))([下载点 CNPM](${urlCNPM}dist/MacOS/Figma-${version}.MacOS.zip))`
       : "no") +
     "|" +
     (ob.MacOS_ARM
-      ? `[MacOS_ARM](./dist/MacOS_ARM/Figma-${version}.MacOS_ARM.zip) ([下载](${url}dist/MacOS_ARM/Figma-${version}.MacOS_ARM.zip))`
+      ? `[MacOS_ARM](./dist/MacOS_ARM/Figma-${version}.MacOS_ARM.zip) ([下载](${url}dist/MacOS_ARM/Figma-${version}.MacOS_ARM.zip))([下载点 CNPM](${urlCNPM}dist/MacOS_ARM/Figma-${version}.MacOS_ARM.zip))`
       : " no ") +
     "|" +
     (ob.Windows
-      ? `[Windows](./dist/Windows/Figma-${version}.Windows.zip) ([下载](${url}dist/Windows/Figma-${version}.Windows.zip))`
+      ? `[Windows](./dist/Windows/Figma-${version}.Windows.zip) ([下载](${url}dist/Windows/Figma-${version}.Windows.zip))([下载点 CNPM](${urlCNPM}dist/Windows/Figma-${version}.Windows.zip))`
       : " no ");
 
   lines.push({ v: Number.parseFloat(version), line });
