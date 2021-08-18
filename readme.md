@@ -8,11 +8,16 @@ Figma 的安装包在很多地区常常有不能下载的现象，这里收集�
 
 ### 最新版本
 
-| 文件名 | Windows                                           | MacOS                                        | MacOS ARM（M1 芯片）                                    |
-| ------ | ------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------- |
-| 101    |                                                   | [MacOS](/dist/MacOS/Figma-101.5.0.MacOS.zip) | [MacOS](/dist/MacOS/Figma-101.5.0.MacOS_ARM.zip)
-| 99     | [Windows](/dist/Windows/Figma-99.0.0.Windows.zip) | [MacOS](/dist/MacOS/Figma-99.0.0.MacOS.zip)  | [MacOS ARM](/dist/MacOS_ARM/Figma-99.0.0.MacOS_ARM.zip) |
-| 81     | [Windows](/dist/Windows/Figma-81.4.0.Windows.zip) | [MacOS](/dist/MacOS/Figma-81.6.0.MacOS.zip)  |                                                         |
+| 文件名 | Windows | MacOS | MacOS ARM（M1 芯片） |
+| ------ | ------- | ----- | -------------------- |
+`101.6.0`|[MacOS](./dist/MacOS/Figma-101.6.0.MacOS.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-101.6.0.MacOS.zip))|[MacOS_ARM](./dist/MacOS_ARM/Figma-101.6.0.MacOS_ARM.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS_ARM/Figma-101.6.0.MacOS_ARM.zip))| no 
+`101.5.0`|[MacOS](./dist/MacOS/Figma-101.5.0.MacOS.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-101.5.0.MacOS.zip))|[MacOS_ARM](./dist/MacOS_ARM/Figma-101.5.0.MacOS_ARM.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS_ARM/Figma-101.5.0.MacOS_ARM.zip))| no 
+`99.0.0`|[MacOS](./dist/MacOS/Figma-99.0.0.MacOS.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-99.0.0.MacOS.zip))|[MacOS_ARM](./dist/MacOS_ARM/Figma-99.0.0.MacOS_ARM.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS_ARM/Figma-99.0.0.MacOS_ARM.zip))|[Windows](./dist/Windows/Figma-99.0.0.Windows.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/Windows/Figma-99.0.0.Windows.zip))
+`97.7.0`|[MacOS](./dist/MacOS/Figma-97.7.0.MacOS.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-97.7.0.MacOS.zip))| no |[Windows](./dist/Windows/Figma-97.7.0.Windows.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/Windows/Figma-97.7.0.Windows.zip))
+`95.7.0`|no| no |[Windows](./dist/Windows/Figma-95.7.0.Windows.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/Windows/Figma-95.7.0.Windows.zip))
+`90.4.0`|[MacOS](./dist/MacOS/Figma-90.4.0.MacOS.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-90.4.0.MacOS.zip))| no | no 
+`81.6.0`|[MacOS](./dist/MacOS/Figma-81.6.0.MacOS.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-81.6.0.MacOS.zip))| no | no 
+`81.4.0`|no| no |[Windows](./dist/Windows/Figma-81.4.0.Windows.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/Windows/Figma-81.4.0.Windows.zip))
 
 ## 原始地址
 
