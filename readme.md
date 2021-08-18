@@ -6,6 +6,13 @@ Figma 的安装包在很多地区常常有不能下载的现象，这里收集�
 
 [Mirror-镜像下载](./dist)
 
+### 推荐版本
+> 此版本可以装插件和汉化的最新版，所以推荐
+
+| 文件名 | MacOS | MacOS ARM（M1 芯片） | Windows
+| ------ | ------- | ----- | -------------------- |
+`99.0.0`|[MacOS](./dist/MacOS/Figma-99.0.0.MacOS.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-99.0.0.MacOS.zip))([国内下载点](https://github.com.cnpmjs.org/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS/Figma-99.0.0.MacOS.zip))|[MacOS_ARM](./dist/MacOS_ARM/Figma-99.0.0.MacOS_ARM.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS_ARM/Figma-99.0.0.MacOS_ARM.zip))([国内下载点](https://github.com.cnpmjs.org/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/MacOS_ARM/Figma-99.0.0.MacOS_ARM.zip))|[Windows](./dist/Windows/Figma-99.0.0.Windows.zip) ([下载](https://github.com/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/Windows/Figma-99.0.0.Windows.zip))([国内下载点](https://github.com.cnpmjs.org/kogoro-mouri/Figma-Download-Mirror/raw/master/dist/Windows/Figma-99.0.0.Windows.zip))
+
 ### 最新版本
 
 | 文件名 | MacOS | MacOS ARM（M1 芯片） | Windows
