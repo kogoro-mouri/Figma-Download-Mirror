@@ -2,6 +2,8 @@
 
 Figma 的安装包在很多地区常常有不能下载的现象，这里收集自官方下载链接的文件，作为进行方便下载安装
 
+Figma's installation package is often not available for download in many regions, so here is a collection of files from the official download link, as a convenient download and installation
+
 ## 镜像下载
 
 [Mirror-镜像下载](./dist)
